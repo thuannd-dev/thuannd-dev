@@ -8,8 +8,9 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-# 🔭 About Me
 -->
+# 🔭 About Me
+
 Hi, I'm **Nguyễn Dương Thuận**, a university student currently learning software engineer. I'm passionate about technology and enjoy building projects that help me practice and improve my coding skills. Although I'm still a beginner, I am committed to learning new things every day and continuously developing my skills in web technologies.
 
 ## 🌱 My Journey
