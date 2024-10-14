@@ -1,7 +1,9 @@
 # 💫 Hi, I'm Nguyễn Dương Thuận!
-<!--<br>-  I’m currently working on ...<br>- 🌱 I’m currently learning ...<br>- 👯 I’m looking to collaborate on ...<br>- 🤔 I’m looking for help with ...<br>- 💬 Ask me about ...<br>- 📫 How to reach me: ...<br>- 😄 Pronouns: ...<br>- ⚡ Fun fact: ...<br>--><br># 🔭 About Me<br><br>Hi, I'm **Nguyễn Dương Thuận**, 
+<!--<br>-  I’m currently working on ...<br>- 🌱 I’m currently learning ...<br>- 👯 I’m looking to collaborate on ...<br>- 🤔 I’m looking for help with ...<br>- 💬 Ask me about ...<br>- 📫 How to reach me: ...<br>- 😄 Pronouns: ...<br>- ⚡ Fun fact: ...<br>-->
 
-<br>🔭 I'm a university student currently learning software engineer. I'm passionate about technology and enjoy building projects that help me practice and improve my coding skills. Although I'm still a beginner, I am committed to learning new things every day and continuously developing my skills in web technologies.<br>
+<br>🔭 About Me<br>
+
+<br>I'm a university student currently learning software engineer. I'm passionate about technology and enjoy building projects that help me practice and improve my coding skills. Although I'm still a beginner, I am committed to learning new things every day and continuously developing my skills in web technologies.<br>
 <br>🌱 My Journey<br>
 <br>I've recently started my journey into web development, and I'm always excited to explore new programming languages and frameworks. Through various projects, I'm gradually building a solid foundation in creating websites and applications.<br>
 
