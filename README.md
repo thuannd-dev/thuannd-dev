@@ -17,4 +17,5 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<br>---<br><br>👯 Thanks for visiting my GitHub profile!<br>
+---
+👯 Thanks for visiting my GitHub profile!<br>
